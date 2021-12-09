@@ -1,0 +1,44 @@
+.orange{
+    color: rgba(241, 89, 71, 174);
+    letter-spacing: 3px;
+}
+
+#pic{
+    margin-top: -126px;
+}
+
+.fas, .fa-brands{
+    font-size: 32px;
+}
+#gamepad{
+    color: rgb(248,0  ,72)
+}
+#bookmark{
+    color: rgb(20 ,121,245)
+}
+#firefox{
+    color: rgb(67 ,179,77)
+}
+#fire{
+    color: rgb(245,166,35)
+}
+#leaf{
+    color: rgb(239,94 ,84)
+}
+#binoculars{
+    color: rgb(1  ,170,173)
+}
+#special{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+#logos{
+    margin-top: 90px;
+}
+#why{
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+#grey{
+    background-color: rgb(250,249,255)
+}
